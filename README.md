@@ -1,9 +1,7 @@
 # CCS-P
 Concrete Compressive Strength Predictor
 
-# CCS-P
-
-Concrete Compressive Strength Predictor. Estimating the compressive strength O a concrete mixture is such a complicated process, after doing a number of examinations and producing many samples.
+Estimating the compressive strength O a concrete mixture is such a complicated process, after doing a number of examinations and producing many samples.
 Here comes the job of the CCS-P, a machine learning program which can do this process by just passing to it the quantities of the mixture components.
 
 ## 💻 Tools been used:
