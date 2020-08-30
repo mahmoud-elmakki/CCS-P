@@ -7,7 +7,7 @@ Here comes the job of the CCS-P, a machine learning program which can do this pr
 ## 💻 Tools been used:
 
 # PyCaret:
-[IPycaret](https://www.google.com) is an open source, low-code machine learning library in Python to train and deploy machine learning pipelines and models in production. 
+[PyCaret](https://pycaret.org) is an open source, low-code machine learning library in Python to train and deploy machine learning pipelines and models in production. 
 
 # Django:
 
