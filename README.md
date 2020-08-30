@@ -31,12 +31,12 @@ the Django framework can take on numerous tasks. Django can be used for creating
 - Document administration platforms;
 - Among other things, Django is great for:
 
-- Algorithm-based generators;
-- Emailing solutions;
-- Verification systems;
-- Filtering systems with dynamically changing rules and advanced parameters;
-- Data analysis solutions and complicated calculations;
-- Machine learning;
+- Algorithm-based generators
+- Emailing solutions
+- Verification systems
+- Filtering systems with dynamically changing rules and advanced parameters
+- Data analysis solutions and complicated calculations
+- Machine learning
 - There are thousands of websites across the globe with Django at their core.
 
 
